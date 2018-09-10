@@ -17,3 +17,4 @@ Los temas a dar son:
 
   * Mapa de distribución basuras en la ciudad de bogotá
   * Tipos de contenedores de basura sobre la cual el ciudadano botará el residuo correctamente.
+  * calificación personal sobre la información presentada en la app.
